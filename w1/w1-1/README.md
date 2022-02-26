@@ -5,3 +5,6 @@ txid: 0x6a74c06ccdf1462445ecdcd4c9d2f3bbc0bb2c436ecb064feb6894da28a9bae8
 
 ## 2、用Remix部署一个合约
 https://ropsten.etherscan.io/tx/0x889dbee42d912bcc52e810d751fffc8ea7212a866eb1fb924515a5a62614fb61
+
+## 3、vscode环境配置
+![image](https://user-images.githubusercontent.com/20521148/155846096-05111050-4baf-4032-9f57-1c3d607ee860.png)
